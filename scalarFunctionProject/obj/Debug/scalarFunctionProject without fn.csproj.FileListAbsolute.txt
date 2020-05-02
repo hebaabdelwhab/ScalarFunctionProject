@@ -1,0 +1,28 @@
+G:\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe.config
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.exe
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.pdb
+G:\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe
+G:\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.pdb
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csprojResolveAssemblyReference.cache
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.Form1.resources
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.Properties.Resources.resources
+G:\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe.config
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.exe
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.Form1.resources
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.Properties.Resources.resources
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\bin\Debug\scalarFunctionProject.pdb
+C:\Users\pc\Desktop\scalarFunctionProject _without fn\scalarFunctionProject\obj\Debug\scalarFunctionProject.pdb
+E:\scalarFunctionProject _gui\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe.config
+E:\scalarFunctionProject _gui\scalarFunctionProject\bin\Debug\scalarFunctionProject.exe
+E:\scalarFunctionProject _gui\scalarFunctionProject\bin\Debug\scalarFunctionProject.pdb
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csprojAssemblyReference.cache
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject.Form1.resources
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject.Properties.Resources.resources
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csproj.GenerateResource.cache
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject without fn.csproj.CoreCompileInputs.cache
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject.exe
+E:\scalarFunctionProject _gui\scalarFunctionProject\obj\Debug\scalarFunctionProject.pdb
